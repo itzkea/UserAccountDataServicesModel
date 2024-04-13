@@ -30,7 +30,7 @@ namespace UserAccountDataServices
             {
 
                 email = "Kea",
-                password = "Keaa123"
+                password = "Keaa1201"
             }; users.Add(user2);
 
             Users user3 = new Users()
